@@ -1,0 +1,28 @@
+.user-list-area {
+  flex-direction: column;
+}
+
+.column {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  float: left;
+  list-style: none;
+}
+
+.button {
+  margin-top: 5px;
+  border-radius: 6px;
+  padding: 3px 6px;
+  display: inline-block;
+  margin: 0 auto;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.flex-item {
+  margin-top: 5px
+}

@@ -1,0 +1,15 @@
+.image img {
+  height: 219px;
+  object-fit: cover;
+  padding: 18px;
+  width: 389px;
+}
+
+.parent-image {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  flex-wrap: wrap;
+}
